@@ -1,0 +1,46 @@
+/Users/jkosanovic-home/Documents/computer_engineering/Graduate_engineering_studies/Fall_2024/ECE_361/ece361f24_homework5_release_r1_0/cmake-build-debug/ece361f24_homework5_release_r1_0
+Enter in a date (mm/dd/yyyy): 11/30/2024
+Initializing registers
+  ____  ____  ____  ____
+
+Fri Nov 29 01:49:40 2024
+Temperature 6
+Humidity 85
+Fri Nov 15 11:54:35 2024
+Temperature 8
+Humidity 70
+Thu Nov  7 02:03:14 2024
+Temperature 8
+Humidity 70
+Sat Nov 30 09:48:30 2024
+Temperature 6
+Humidity 85
+Fri Nov  1 20:35:48 2024
+Temperature 2
+Humidity 75
+Sat Nov 30 10:56:25 2024
+Temperature 6
+Humidity 72
+Mon Nov  4 11:19:23 2024
+Temperature 8
+Humidity 89
+Fri Nov  1 01:14:12 2024
+Temperature 8
+Humidity 87
+Sat Nov  2 18:00:00 2024
+Temperature 5
+Humidity 77
+Thu Nov 21 09:41:14 2024
+Temperature 3
+Humidity 79
+ Sat Nov 30 00:00:00 2024
+ Timestamp not found
+
+Tue Aug 30 11:35:12     3346816
+Fri Oct  4 10:06:48     4460633
+Fri Oct  4 09:56:00     4460633
+Fri Oct  4 09:55:44     4460633
+(null)(null)Tue Jan 10 22:31:28     3346817
+Fri Oct  4 09:57:04     4460633
+Sun May 11 01:36:00     4460719
+Fri Oct  4 09:44:16     4460633

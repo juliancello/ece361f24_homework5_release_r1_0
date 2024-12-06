@@ -9,12 +9,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
-struct BinaryTreeNode{
-    int data;
-    struct BinaryTreeNode *left;
-    struct BinaryTreeNode *right;
-};
+#include "BinaryTree.h"
 
 // Insert a new node in the tree
 struct BinaryTreeNode* createNewNode(int data){
@@ -56,7 +51,7 @@ void postOrder(struct BinaryTreeNode* root){
 
 
 // Test the code
-int main() {
+int main3() {
 	/* Sample binary tree is
             9
           /   \
@@ -87,5 +82,7 @@ int main() {
 	preOrder(root);
 	printf("\n...Performing a recursive post-order traversal\n");
 	postOrder(root);
+    free(root);
+    free(temp);
 	return 0;
 }

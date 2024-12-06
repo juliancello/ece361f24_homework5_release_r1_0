@@ -17,10 +17,35 @@
 * @note Header file for Karumanchi's BinarySearchTree.c
 */
 
+
 #ifndef BINARYSEARCHTREE_H
 #define BINARYSEARCHTREE_H
+#include "BinaryTree.h"
 
-void insert(int data);
-struct node* search(int data);
+// struct BinaryTreeNode { // TODO deprecate
+//     int data;
+//     struct BinaryTreeNode *leftChild;
+//     struct BinaryTreeNode *rightChild;
+// };
+
+/**
+* @brief TODO
+* @param data int
+* @return	void
+*
+* @details
+* TODO
+*/
+void insert(struct temp_humid_data data);
+
+/**
+* @brief TODO
+* @param data int
+* @return	struct BinaryTreeNode*
+*
+* @details
+* TODO
+*/
+struct BinaryTreeNode* search(struct temp_humid_data data);
 
 #endif //BINARYSEARCHTREE_H

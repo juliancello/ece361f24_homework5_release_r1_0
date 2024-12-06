@@ -9,6 +9,10 @@ add_executable(ece361f24_homework5_release_r1_0
         starters/iom361_r2/test_iom361_r2.c
         starters/karumanchi_bst/BinarySearchTree.c
         starters/karumanchi_bst/BinaryTree.c
+        starters/karumanchi_bst/BST_ADT.c
+        starters/karumanchi_bst/BST_ADT.h
+        starters/karumanchi_bst/BinarySearchTree.h
+        starters/karumanchi_bst/BinaryTree.h
         starters/random_float_generator/float_rndm.h
         starters/random_float_generator/float_rndm.c
         starters/random_float_generator/test_float_rndm.c
